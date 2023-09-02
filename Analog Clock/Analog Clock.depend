@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1615663677 source:g:\study\c++\analog clock\clock.cpp
+	"clock.h"
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<ctime>
+
+1615293294 g:\study\c++\analog clock\clock.h
+
+1615293283 source:g:\study\c++\analog clock\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<ctime>
+	"clock.h"
+
+1615663677 source:g:\study\2nd semester\c++\analog clock\clock.cpp
+	"clock.h"
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<ctime>
+
+1615293294 g:\study\2nd semester\c++\analog clock\clock.h
+
+1615293283 source:g:\study\2nd semester\c++\analog clock\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<ctime>
+	"clock.h"
+
+1693674896 source:d:\study\2nd semester\project (cse 178)\analog clock\clock.cpp
+	"clock.h"
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<ctime>
+
+1648832396 d:\study\2nd semester\project (cse 178)\analog clock\clock.h
+
+1648909143 source:d:\study\2nd semester\project (cse 178)\analog clock\main.cpp
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<ctime>
+	"clock.h"
+
